@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SHRIDHAR V
 - 👀 I’m interested in java development and web technologies
-- 🌱 I’m currently learning both java and we technologies
+- 🌱 I’m currently learning both java and web technologies
 - 💞️ I’m looking for entry level job
 
 <!---
